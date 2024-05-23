@@ -1,0 +1,1 @@
+let totalLike = 12;
